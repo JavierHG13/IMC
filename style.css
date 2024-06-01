@@ -1,0 +1,17 @@
+body{
+    background-color: beige;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+h2{
+ 
+}
+form{
+    margin: 8%;
+    border: 1px solid blue;
+    border-radius: 6px;
+    padding: 40px 60px;
+    background-color: aquamarine;
+}
